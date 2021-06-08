@@ -1,4 +1,4 @@
-# SheHacks_Team-118
+# THRIFT - SheHacks_Team-118
 
 ![logo-f](https://user-images.githubusercontent.com/58625189/121160235-87c6b500-c869-11eb-8122-00af54bd64bc.png)
 
